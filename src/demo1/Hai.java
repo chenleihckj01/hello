@@ -8,5 +8,6 @@ public class Hai {
 		System.out.println("haiaia");
                 System.out.println("ssssssbbb");
                 System.out.println("asdfasfd");
+		System.out.println("asdfasfd");
 	}
 }
